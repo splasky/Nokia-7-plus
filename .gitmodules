@@ -1,0 +1,3 @@
+[submodule "android_kernel_nokia_FIH-SDM660"]
+	path = android_kernel_nokia_FIH-SDM660
+	url = https://github.com/Nokia-SDM660/android_kernel_nokia_FIH-SDM660.git
