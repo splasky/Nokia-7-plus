@@ -16,9 +16,9 @@ fastboot reboot recovery
 ```
 sudo $(which fastboot) boot boot_b twrp.img
 ```
-6. use twrp to or adb sideload to install new os
+6. use twrp or adb sideload to install new os
 ```
-Select adb sideload
-Type adb sideload rom-xyz.zip
+adb sideload
+adb sideload rom-xyz.zip
 adb reboot system
 ```
