@@ -1,3 +1,6 @@
 [submodule "android_kernel_nokia_FIH-SDM660"]
 	path = android_kernel_nokia_FIH-SDM660
 	url = https://github.com/Nokia-SDM660/android_kernel_nokia_FIH-SDM660.git
+[submodule "android_device_nokia_B2N_sprout-TWRP"]
+	path = android_device_nokia_B2N_sprout-TWRP
+	url = https://github.com/Nokia-SDM660/android_device_nokia_B2N_sprout-TWRP
